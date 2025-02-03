@@ -8,13 +8,13 @@ body {
 
 #noButton {
     position: absolute;
-    margin-left: 170px;
+    margin-left: 200px;
     transition: 0.5s;
 }
 
 #yesButton {
     position: absolute;
-    margin-right: 170px;
+    margin-right: 200px;
 }
 
 .header_text {
@@ -85,7 +85,7 @@ body {
     }
 
     img {
-        height: 50vh;
+        height: 60vh;
     }
 
     .btn {
